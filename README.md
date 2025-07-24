@@ -1,7 +1,7 @@
 
 # Hola, soy Jorge Pryjmak <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-[![Portada-Perfil-de-Linkedin-Profesional-Moderno-Oscuro.png](https://i.postimg.cc/9fW2J3pC/Portada-Perfil-de-Linkedin-Profesional-Moderno-Oscuro.png)](https://postimg.cc/G4S6m5V5) 
+![https://i.postimg.cc/9fW2J3pC/Portada-Perfil-de-Linkedin-Profesional-Moderno-Oscuro.png](https://i.postimg.cc/ZR2PCpWQ/1738434698119.jpg)
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
