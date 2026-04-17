@@ -9,7 +9,7 @@
 
 <br><br>
 
-- 🎓 Estudiante de Ingeniería Informática en la **Universidad Nacional de La Matanza**.
+<!-- - 🎓 Estudiante de Ingeniería Informática en la **Universidad Nacional de La Matanza**. -->
 - 💻 Apasionado por el desarrollo **Full Stack** con tecnologías **.NET y Angular**.
 - 🚀 Interesado en **computación, software engineering y ciberseguridad**.
 - 🔥 Experiencia en reparación de **PCs, laptops, motherboards y equipos electrónicos**.
